@@ -61,16 +61,16 @@ This workflow has 11 steps. Execute them in order:
 
 ## Step Execution
 
-For each step, follow the detailed instructions in the references folder:
+For each step, read and follow the detailed instructions in the references folder. Use the Read tool to load each step file from this skill's directory.
 
 ### Step 1: Initialization
-Follow @references/01-initialization.md
+Read and follow `references/01-initialization.md`
 
 ### Step 2: Project Discovery
-Follow @references/02-discovery.md
+Read and follow `references/02-discovery.md`
 
 ### Step 3: Success Criteria
-Follow @references/03-success-criteria.md
+Read and follow `references/03-success-criteria.md`
 
 (Continue through remaining steps as user progresses)
 
@@ -87,7 +87,7 @@ inputDocuments: []         # Track loaded documents
 
 ## Output
 
-Generate PRD using the template structure in @assets/prd-template.md
+Generate PRD using the template structure in `assets/prd-template.md` (read from this skill's directory).
 
 Save to: `planning-artifacts/prd.md` (or user-specified location)
 
